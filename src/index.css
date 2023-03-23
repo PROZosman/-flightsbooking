@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  ul,ol {
+    list-style-type: none;
+  }
+
+
+  :root {
+    /* --title-color: #11175d; */
+    --black: #000;
+    --white: #fff;
+    --primary-color: #D8AB27;
+    --secondary-color: #03014c;
+    --red-orange: #ea6c00;
+    --error: #F55050;
+  
+    --primary-font: 'Poppins', sans-serif;
+    --secondary-font: 'Nunito', sans-serif;
+    --rare-font: 'Open Sans', sans-serif;
+    --border-colour: #D8AB27; 
+    
+  }
+  

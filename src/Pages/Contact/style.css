@@ -1,0 +1,12 @@
+.Contact_bg {
+    background-image: url(../../../public/img/Contact_bg.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
